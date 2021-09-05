@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Welcome to my Github profile!
+
+- 🔭 I am an aspiring Full Stack Developer skilled in HTML, CSS, JS and React; currently focused on learning back end technologies.
+
+- 💬 Feel free to explore my projects and give your suggestions.
+
+- 📫 Reach out to me at https://www.linkedin.com/in/mahziyar110/ || mahziyar110@gmail.com
+
 <!--
 **mahziyar110/mahziyar110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
